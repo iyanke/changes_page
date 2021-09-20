@@ -1,0 +1,341 @@
+commit 9d257014520e2c211b496a722c6b1e35fbe4b31b
+Author: Inna Yankelevich <inna_yan20@inbox.ru>
+Date:   Thu Apr 1 19:56:48 2021 +0300
+
+    C1a
+
+commit bc51bb72ff492232cb14b29ded82e2931135fd43
+Author: Inna Yankelevich <inna_yan20@inbox.ru>
+Date:   Thu Apr 1 19:55:10 2021 +0300
+
+    C1
+
+commit 04c02c862325955306f6e1dbe48d2ff0c27beb1a
+Author: Inna Yankelevich <inna_yan20@inbox.ru>
+Date:   Thu Apr 1 19:02:45 2021 +0300
+
+    xxx
+
+commit d1a752023038b240b3a0cdbb6eb4608b113aa3d9
+Author: Inna Yankelevich <inna_yan20@inbox.ru>
+Date:   Thu Apr 1 16:32:33 2021 +0300
+
+    main7
+
+commit 920f39584bfbcedbfebea6c104998313bd33627b
+Author: Inna Yankelevich <inna_yan20@inbox.ru>
+Date:   Thu Apr 1 16:21:04 2021 +0300
+
+    main
+
+commit 994d1d9a8a12ac302be2617572ffc740a55e9027
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Thu Mar 4 13:26:06 2021 +0300
+
+    four1
+
+commit dc75823f54e12e498b7b5ac82f63c0436ecc4e54
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Thu Mar 4 13:13:21 2021 +0300
+
+    main6
+
+commit 96215b04f38b29f62efff8bb8fca9b816684d5dc
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Thu Mar 4 13:13:03 2021 +0300
+
+    main5
+
+commit 5a1aef1c85f9796aa0ee2aeda814c19d0423fdb1
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Thu Mar 4 11:45:49 2021 +0300
+
+    four333
+
+commit 7f87c770a76ec821918fa13597783a57553a3635
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Thu Mar 4 11:43:53 2021 +0300
+
+    four111
+
+commit ddec109c19f9449c0b49a3abc318ce099b4cfb8e
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Thu Mar 4 11:41:23 2021 +0300
+
+    main4
+
+commit 93c6444226403db13d9957a5ac4a4d6632617566
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Thu Mar 4 11:41:03 2021 +0300
+
+    main3
+
+commit 6880f9a71313f832aca2ac87fc75c57db34caeaf
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Thu Mar 4 11:30:53 2021 +0300
+
+    Create four.txt
+
+commit 5fea2d6a3461ea9b21b6d91dd4198abf09fc2b25
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Thu Mar 4 11:18:10 2021 +0300
+
+    main_excluded
+
+commit 9f91f11b08fec8e2f5d193d617330c05a586e22b
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Thu Mar 4 11:14:29 2021 +0300
+
+    main3
+
+commit 08c99e1ee603b0698d169e159b301be8f9dee98c
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Thu Mar 4 11:14:12 2021 +0300
+
+    main2
+
+commit baa4a59545da221b9ed08152c7a190bbde36a3bd
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Thu Mar 4 11:13:55 2021 +0300
+
+    main1
+
+commit 2cc82e4bc4534f8110164801e85ff708ce1f2817
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Thu Mar 4 11:06:50 2021 +0300
+
+    Create three.txt
+
+commit a334047ae1ca8087ca748dd82269883b5d561f7a
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Thu Mar 4 11:06:32 2021 +0300
+
+    Create two.txt
+
+commit 974c880975250c52e710d883c57b2d9ecc0e48ac
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Thu Mar 4 11:06:17 2021 +0300
+
+    Create one.txt
+
+commit a2965362812dddb26b8bed68506de6b335081f4d
+Author: admin <admin@TeamCity>
+Date:   Tue Jan 12 14:46:01 2021 +0300
+
+    Bulk edit external ids
+
+commit 3007bccdcc440fd1869c039e3354808916b590a4
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Wed Nov 18 17:46:03 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: project was copied into 'Aa secondary node project123455' project
+
+commit 8bf6b676fecf932756b819fc8255c689510dca9b
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Wed Nov 18 17:25:21 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: Issue tracker with name iyanke/tests was updated
+
+commit f0ee77a8aa89500765fd53cfc0e75088e275254a
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Wed Nov 18 17:21:28 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: project was archived
+
+commit 1499e5bd030762c576f2c219a7498aabc334c306
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Wed Nov 18 17:20:55 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: automatically paused on archiving the project
+
+commit b0f5ee2b9ad6add05f53e1053c75ba27ea2d7738
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Wed Nov 18 17:15:20 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: automatically paused on archiving the project
+
+commit 50eac6a5c62936d9be5e2f10fee7dcca66c2e109
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Wed Nov 18 11:09:25 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: parameters of 'Config from main node' build configuration were updated
+
+commit e1e3cd60ad5f3b16c3f2e6575e9b740f4fa6c559
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Wed Nov 18 11:04:41 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: project parameters were changed
+
+commit ec5d8a8b1bb7e801698055b19efa4f711a3ccea5
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 20:11:43 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: project was copied into '<Root project>' project
+
+commit d67c658af4b28ffc0bca8d0997ff1ee64c12b6b6
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 20:04:12 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: triggers of 'Config from main node' build configuration were updated
+
+commit 7644cd796f65dfb85f81478f63290850b440691a
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 20:03:21 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: VCS roots of 'Config from main node' build configuration were updated
+
+commit a51a2237a1a5f673db3335d20458c30a23bea016
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 19:57:35 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: project was dearchived
+
+commit 49dfbb2be8e1a91c349b05fda44600a0b322984b
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 19:57:20 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: project was dearchived
+
+commit 9de500ee1d67804d693efaece1e19747332bbf09
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 19:56:52 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: project was archived
+
+commit 67982c36d6f81b9255a5e7c7d36f837ccaaf5b52
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 19:50:04 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: Cleanup rule was added for project
+
+commit b45b626cf616b1a51a6de65215a52ad82bce472f
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 19:15:19 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: Issue tracker with name rer was removed
+
+commit 8729184708afd15bfddf0bf87bd6c6b45fef63e9
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 18:45:39 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: New YouTrack issue tracker with name YouTrack was created
+
+commit 275288f4585b2712fc8c6a0c8a2717f2823be75b
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 18:31:28 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: Issue tracker with name rer was updated
+
+commit 7151f7b0980446906d28f1a5c72fb8b861993b17
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 18:31:06 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: New Bugzilla issue tracker with name rer was created
+
+commit c71da887761db69e6fa090e605f4e0138fae61b0
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 18:30:55 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: Issue tracker with name rer was removed
+
+commit d0baa00be23400513a4693c3f597a6820a90e545
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 18:30:40 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: New Bugzilla issue tracker with name rer was created
+
+commit 1ec14a8d99bc71f798cc2c324186390642ebd76a
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 18:30:20 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: Issue tracker with name iyanke/tests was updated
+
+commit f15572d77ec21d8c9ecb65fd4c66c07c8b3be98f
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 18:29:28 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: New GitHub issue tracker with name iyanke/tests was created
+
+commit 916d75d6d5b3599d0fed29e9f19d3116c5ef5522
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 18:19:28 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: 'ASecondaryNodeProject_ConfigFromMainNodeCopiedOTheSecondNode' meta-runner was removed
+
+commit 28b2453458a625f052b72a4523c584c085fb5e62
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 18:19:13 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: runners of 'With metaruner' build configuration were updated
+
+commit e85aa64a6e0d3943f9944a58796d88b5a38a6c21
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 18:18:59 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: Build configuration created from meta-runner meta
+
+commit a90d0a7f16e090939fd1651854df9e60a4a35614
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 18:18:13 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: runners of 'With metaruner' build configuration were updated
+
+commit 826d7e9e8940cc511d8139c6f36f6045fac001ba
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 18:17:57 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: 'With metaruner' build configuration was created
+
+commit ee43eadfa148cff7a4f61a8a3136db022193ccd4
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 18:17:15 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: Build configuration created from meta-runner meta
+
+commit a112aa49e9030ce49dec75d1f5e1302395ef7807
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 18:16:36 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: 'meta' meta-runner was created
+
+commit fed37e72c7fffbe255ba839ccbee9bc9b0f6e3b7
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 18:13:44 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: 'ASecondaryNodeProject_ConfigFromMainNodeCopiedOTheSecondNode' meta-runner was created
+
+commit 798aa7215a05b8861da03edbef8e21febc6004c9
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 16:42:35 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: d
+
+commit 28493cb848ae24ebb4da03e063943b60bec3f147
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 16:38:22 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: Synchronization with own VCS root is enabled
+
+commit f9ac31fdc058a7d12cd39072a8cdbed6f139413c
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Tue Nov 17 16:37:46 2020 +0300
+
+    Delete settings.kts
+
+commit 9c131d31562b01e9f52dca32d7fd28378653ac65
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Tue Nov 17 16:37:24 2020 +0300
+
+    Delete pom.xml
+
+commit 63413538670d2cbc6ec06057a5927c9ed4bd2ff8
+Author: inna_yan <inna_yan@TeamCity>
+Date:   Tue Nov 17 16:28:41 2020 +0300
+
+    TeamCity change in 'A secondary node project123455' project: Synchronization with own VCS root is enabled
+
+commit 75ba91c6883f7b8d6c3b756010d8a08da111e7da
+Author: iyanke <63282359+iyanke@users.noreply.github.com>
+Date:   Tue Nov 17 16:27:06 2020 +0300
+
+    Initial commit
